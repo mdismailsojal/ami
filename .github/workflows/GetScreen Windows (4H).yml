@@ -15,4 +15,4 @@ jobs:
          cmd c\ down.bat
 
       - name: Time Counter
-        run: python3 time.py
+        run: time.py
